@@ -1,1 +1,1 @@
-# gc-sensor-constroller
+# gc-sensor-controller
